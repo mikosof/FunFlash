@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292925880775",
+    "project_id": "funflash-cd13e",
+    "storage_bucket": "funflash-cd13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292925880775:android:1f58f1275a8c0e036841e2",
+        "android_client_info": {
+          "package_name": "com.example.funflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292925880775-sp6p78llu8hvaq5tb8bfuavkdjosi82c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcQoP5ZI-qHdZuWipHkpdRuFu78kHhaFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292925880775-sp6p78llu8hvaq5tb8bfuavkdjosi82c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
