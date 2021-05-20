@@ -13,6 +13,7 @@ Must have:
 1. I must be able turn the flash cards around to see the answer so that I can revise. (Done)
 2. I must be able to see how many mistakes I made (Done)
 3. I must have the ability to test myself on the cards. (Done)
+
 Should have: 
 1. I should only be able to get to the next card once I answer correctly. (Done)
 2. I should be able to see if I answer wrong during the test.(Done)
